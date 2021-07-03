@@ -8,6 +8,7 @@
  - adres email: xxxxx  
  - hasło: Abcdef123!  
  - data urodzenia: 05.07.1996  
+ 
 **Środowisko:** Google Chrome Version 88.0.4324.182 (Official Build) (64-bit)  
 **Warunek wstępny:** Użytkownik nie jest zalogowany na stronie  
 **Kroki:**  
